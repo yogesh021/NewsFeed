@@ -7,7 +7,6 @@ const fetchNews = async () => {
     const result = await axios({
       method: "GET",
       url: RSS_URL,
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
     });
 
     const data = result.data;

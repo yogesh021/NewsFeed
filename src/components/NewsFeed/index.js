@@ -21,7 +21,6 @@ class NewsFeed extends React.Component {
     return (
       <NewsFeedContext.Consumer>
         {(feed) => {
-          console.log(feed);
           return (
             <div className="ui container">
               <div className="header-container">
