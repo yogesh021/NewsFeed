@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+# NewsFeed 
+## Get real-time updated news in summarised format from NDTV RSS Feed. <br>
+<img src="https://github.com/yogesh021/NewsFeed/blob/main/public/images/screenshots/screencapture-localhost-3000-2021-02-24-20_08_53.png" width="450"/>
+
+## Features:-
+<br>
+1. Get articles with headline, an image, a short summary and date.<br><br>
+2. Feed: The place to get your dose of latest news and stay updated.<br><br>
+3. Trending: Never miss the viral news making headlines.<br><br>
+4. Visit the webpage of the article within the app by clicking on it.<br><br>
+
+## Libraries/Tech used:
+
+1. ReactJS : Used ReactJS for building the front-end.
+2. React-Router : For routing to different location in the app.
+3. Semantic-ui : Semantic UI is a front-end development framework similar to bootstrap designed for theming. It contains pre-built semantic components that helps create beautiful and responsive layouts using human-friendly HTML.
+
+Below are some screenshots of different routes - <br/><br/>
+ **Home page**<br/>
+ <img src="https://github.com/yogesh021/NewsFeed/blob/main/public/images/screenshots/screencapture-localhost-3000-2021-02-24-20_09_27.png" width="450" />
+ 
+ **News Feed**<br/>
+ <img src="https://github.com/yogesh021/NewsFeed/blob/main/public/images/screenshots/screencapture-localhost-3000-2021-02-24-20_08_53.png" width="450"/>
+ 
+ **News Detail**<br/>
+ <img src="https://github.com/yogesh021/NewsFeed/blob/main/public/images/screenshots/screencapture-localhost-3000-2021-02-24-20_09_09.png" width="450" />
+ 
+ <br/><br/>
+ # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
